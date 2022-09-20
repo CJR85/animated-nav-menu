@@ -116,3 +116,9 @@ ul li a {
   color: #333;
   transition: 0.5s;
 }
+
+ul li a:hover {
+  background: #f6f6f6;
+  color: #ff216d;
+  transition: 0s;
+}
